@@ -49,8 +49,4 @@ README.md                   # This file
 demo_files/                 # Demo/test files
 ```
 
-## License
-MIT License
-
----
 **Effortlessly organize your files with a single click!**
