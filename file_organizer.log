@@ -1,0 +1,1093 @@
+2025-05-26 19:11:03,644 - INFO - Started file organization process.
+2025-05-26 19:11:22,409 - ERROR - Directory does not exist: '/Users/lokeshboddapu/Infotact-begin /demo_files'
+2025-05-27 07:47:58,435 - INFO - Started file organization process.
+2025-05-27 07:48:18,653 - ERROR - Directory does not exist: '/Users/lokeshboddapu/Infotact-begin /demo_files'
+2025-05-27 07:58:02,569 - INFO - Started file organization process.
+2025-05-27 07:58:08,290 - ERROR - Directory does not exist: '/Users/lokeshboddapu/Infotact-begin /demo_files'
+2025-05-27 07:58:45,023 - INFO - Started file organization process.
+2025-05-27 07:58:45,023 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 07:58:45,023 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 07:58:45,024 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 07:58:45,024 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:58:45,024 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 07:58:45,024 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:58:45,024 - INFO - Found file: backup.tar.gz, extension: .gz, uncategorized
+2025-05-27 07:58:45,024 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/gz
+2025-05-27 07:58:45,025 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 07:58:45,025 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:58:45,025 - INFO - Found file: webpage.html, extension: .html, uncategorized
+2025-05-27 07:58:45,025 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/html
+2025-05-27 07:58:45,025 - INFO - Found file: styles.css, extension: .css, uncategorized
+2025-05-27 07:58:45,025 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/css
+2025-05-27 07:58:45,025 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 07:58:45,025 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 07:58:45,025 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 07:58:45,025 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 07:58:45,025 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 07:58:45,025 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 07:58:45,025 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 07:58:45,026 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 07:58:45,026 - INFO - Found file: app.exe, extension: .exe, uncategorized
+2025-05-27 07:58:45,026 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/exe
+2025-05-27 07:58:45,026 - INFO - Found file: installer.msi, extension: .msi, uncategorized
+2025-05-27 07:58:45,026 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/msi
+2025-05-27 07:58:45,026 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 07:58:45,026 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:58:45,026 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 07:58:45,026 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:58:45,026 - INFO - No extension for file: no_extension
+2025-05-27 07:58:45,027 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 07:58:45,027 - INFO - Found file: script.py, extension: .py, uncategorized
+2025-05-27 07:58:45,027 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/py
+2025-05-27 07:58:45,027 - INFO - Found file: archive.zip, extension: .zip, uncategorized
+2025-05-27 07:58:45,027 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/zip
+2025-05-27 07:58:45,027 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 07:58:45,027 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:58:45,027 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 07:58:45,027 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 07:58:45,027 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 07:58:45,027 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 07:58:45,027 - INFO - Moved 20 files to their respective folders.
+2025-05-27 07:59:09,418 - INFO - Started file organization process.
+2025-05-27 07:59:09,419 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 07:59:09,419 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 07:59:09,419 - INFO - No files were moved.
+2025-05-27 07:59:38,096 - INFO - Started file organization process.
+2025-05-27 07:59:38,096 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 07:59:38,096 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 07:59:38,096 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 07:59:38,097 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:59:38,097 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 07:59:38,097 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:59:38,097 - INFO - Found file: backup.tar.gz, extension: .gz, uncategorized
+2025-05-27 07:59:38,097 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/gz
+2025-05-27 07:59:38,097 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 07:59:38,097 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:59:38,097 - INFO - Found file: webpage.html, extension: .html, uncategorized
+2025-05-27 07:59:38,098 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/html
+2025-05-27 07:59:38,098 - INFO - Found file: styles.css, extension: .css, uncategorized
+2025-05-27 07:59:38,098 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/css
+2025-05-27 07:59:38,098 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 07:59:38,098 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 07:59:38,098 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 07:59:38,098 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 07:59:38,098 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 07:59:38,098 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 07:59:38,098 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 07:59:38,098 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 07:59:38,098 - INFO - Found file: app.exe, extension: .exe, uncategorized
+2025-05-27 07:59:38,099 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/exe
+2025-05-27 07:59:38,099 - INFO - Found file: installer.msi, extension: .msi, uncategorized
+2025-05-27 07:59:38,099 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/msi
+2025-05-27 07:59:38,099 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 07:59:38,099 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:59:38,099 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 07:59:38,099 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:59:38,099 - INFO - No extension for file: no_extension
+2025-05-27 07:59:38,099 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 07:59:38,099 - INFO - Found file: script.py, extension: .py, uncategorized
+2025-05-27 07:59:38,099 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/py
+2025-05-27 07:59:38,099 - INFO - Found file: archive.zip, extension: .zip, uncategorized
+2025-05-27 07:59:38,100 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/zip
+2025-05-27 07:59:38,100 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 07:59:38,100 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 07:59:38,100 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 07:59:38,100 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 07:59:38,100 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 07:59:38,100 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 07:59:38,100 - INFO - Moved 20 files to their respective folders.
+2025-05-27 08:04:57,642 - INFO - Started file organization process.
+2025-05-27 08:06:16,213 - INFO - Started file organization process.
+2025-05-27 08:06:42,203 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 08:06:42,205 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 08:06:42,205 - INFO - Found file: image_15.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,206 - INFO - Moved file: image_15.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,207 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 08:06:42,207 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,207 - INFO - Found file: video_10.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,208 - INFO - Moved file: video_10.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,208 - INFO - Found file: video_11.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,209 - INFO - Moved file: video_11.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,209 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,210 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,210 - INFO - Found file: image_14.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,210 - INFO - Moved file: image_14.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,210 - INFO - Found file: image_16.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,211 - INFO - Moved file: image_16.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,211 - INFO - Found file: backup.tar.gz, extension: .gz, uncategorized
+2025-05-27 08:06:42,212 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/gz
+2025-05-27 08:06:42,212 - INFO - Found file: video_13.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,212 - INFO - Moved file: video_13.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,212 - INFO - Found file: video_12.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,213 - INFO - Moved file: video_12.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,213 - INFO - Found file: unknown_file.xyz, extension: .xyz, uncategorized
+2025-05-27 08:06:42,214 - INFO - Moved file: unknown_file.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 08:06:42,214 - INFO - Found file: image_17.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,214 - INFO - Moved file: image_17.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,214 - INFO - Found file: nested.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,215 - INFO - Moved file: nested.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,215 - INFO - Found file: image_13.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,216 - INFO - Moved file: image_13.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,216 - INFO - Found file: video_16.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,216 - INFO - Moved file: video_16.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,216 - INFO - Found file: video_17.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,216 - INFO - Moved file: video_17.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,217 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 08:06:42,217 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,217 - INFO - Found file: image_12.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,217 - INFO - Moved file: image_12.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,218 - INFO - Found file: image_10.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,218 - INFO - Moved file: image_10.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,218 - INFO - Found file: video_8.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,218 - INFO - Moved file: video_8.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,218 - INFO - Found file: webpage.html, extension: .html, uncategorized
+2025-05-27 08:06:42,219 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/html
+2025-05-27 08:06:42,219 - INFO - Found file: styles.css, extension: .css, uncategorized
+2025-05-27 08:06:42,219 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/css
+2025-05-27 08:06:42,219 - INFO - Found file: video_15.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,220 - INFO - Moved file: video_15.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,220 - INFO - Found file: nested.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,220 - INFO - Moved file: nested.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,220 - INFO - Found file: video_14.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,220 - INFO - Moved file: video_14.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,220 - INFO - Found file: video_9.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,221 - INFO - Moved file: video_9.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,221 - INFO - Found file: image_11.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,221 - INFO - Moved file: image_11.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,221 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 08:06:42,221 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,221 - INFO - Found file: file_4.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,222 - INFO - Moved file: file_4.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,222 - INFO - Found file: file_18.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,222 - INFO - Moved file: file_18.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,222 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,222 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,223 - INFO - Found file: file_19.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,223 - INFO - Moved file: file_19.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,223 - INFO - Found file: file_5.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,223 - INFO - Moved file: file_5.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,223 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 08:06:42,224 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 08:06:42,224 - INFO - Found file: image_8.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,224 - INFO - Moved file: image_8.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,225 - INFO - Found file: file_7.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,225 - INFO - Moved file: file_7.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,225 - INFO - Found file: test_code.py, extension: .py, uncategorized
+2025-05-27 08:06:42,226 - INFO - Moved file: test_code.py to /Users/lokeshboddapu/Infotact-begin /demo_files/py
+2025-05-27 08:06:42,226 - INFO - Found file: file_6.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,226 - INFO - Moved file: file_6.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,226 - INFO - Found file: test.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,227 - INFO - Moved file: test.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,227 - INFO - Found file: image_9.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,227 - INFO - Moved file: image_9.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,227 - INFO - Found file: test.mp3, extension: .mp3, category: Music
+2025-05-27 08:06:42,227 - INFO - Moved file: test.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 08:06:42,227 - INFO - Found file: file_2.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,228 - INFO - Moved file: file_2.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,228 - INFO - Found file: file_3.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,228 - INFO - Moved file: file_3.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,228 - INFO - Found file: file_1.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,228 - INFO - Moved file: file_1.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,228 - INFO - Found file: file_20.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,229 - INFO - Moved file: file_20.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,229 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 08:06:42,230 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 08:06:42,230 - INFO - Found file: image_2.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,230 - INFO - Moved file: image_2.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,230 - INFO - Found file: file_11.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,231 - INFO - Moved file: file_11.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,231 - INFO - Found file: test.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,231 - INFO - Moved file: test.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,231 - INFO - Found file: file_10.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,231 - INFO - Moved file: file_10.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,231 - INFO - Found file: app.exe, extension: .exe, uncategorized
+2025-05-27 08:06:42,232 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/exe
+2025-05-27 08:06:42,232 - INFO - Found file: image_3.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,232 - INFO - Moved file: image_3.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,232 - INFO - Found file: installer.msi, extension: .msi, uncategorized
+2025-05-27 08:06:42,232 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/msi
+2025-05-27 08:06:42,232 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 08:06:42,233 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,233 - INFO - Found file: image_1.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,233 - INFO - Moved file: image_1.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,233 - INFO - Found file: test.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,233 - INFO - Moved file: test.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,233 - INFO - Found file: file_12.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,233 - INFO - Moved file: file_12.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,233 - INFO - Found file: test_archive.zip, extension: .zip, uncategorized
+2025-05-27 08:06:42,234 - INFO - Moved file: test_archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/zip
+2025-05-27 08:06:42,234 - INFO - Found file: file_13.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,234 - INFO - Moved file: file_13.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,234 - INFO - Found file: image_4.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,234 - INFO - Moved file: image_4.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,234 - INFO - Found file: file_17.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,234 - INFO - Moved file: file_17.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,234 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 08:06:42,235 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,235 - INFO - Found file: test_document.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,235 - INFO - Moved file: test_document.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,235 - INFO - Found file: file_16.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,235 - INFO - Moved file: file_16.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,235 - INFO - Found file: image_5.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,236 - INFO - Moved file: image_5.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,236 - INFO - Found file: image_7.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,236 - INFO - Moved file: image_7.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,236 - INFO - Found file: file_8.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,236 - INFO - Moved file: file_8.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,236 - INFO - Found file: file_14.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,236 - INFO - Moved file: file_14.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,236 - INFO - Found file: file_15.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,237 - INFO - Moved file: file_15.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,237 - INFO - Found file: file_9.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,237 - INFO - Moved file: file_9.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,237 - INFO - Found file: image_6.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,237 - INFO - Moved file: image_6.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,237 - INFO - Found file: image_20.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,237 - INFO - Moved file: image_20.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,237 - INFO - No extension for file: no_extension
+2025-05-27 08:06:42,238 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 08:06:42,238 - INFO - Found file: video_4.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,238 - INFO - Moved file: video_4.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,238 - INFO - Found file: video_19.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,238 - INFO - Moved file: video_19.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,238 - INFO - Found file: video_18.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,238 - INFO - Moved file: video_18.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,239 - INFO - No extension for file: file_without_extension
+2025-05-27 08:06:42,239 - INFO - Moved file: file_without_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 08:06:42,239 - INFO - Found file: video_5.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,240 - INFO - Moved file: video_5.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,240 - INFO - Found file: video_7.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,240 - INFO - Moved file: video_7.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,240 - INFO - Found file: script.py, extension: .py, uncategorized
+2025-05-27 08:06:42,240 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/py
+2025-05-27 08:06:42,240 - INFO - Found file: test_duplicate.txt, extension: .txt, category: Documents
+2025-05-27 08:06:42,241 - INFO - Moved file: test_duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,241 - INFO - Found file: archive.zip, extension: .zip, uncategorized
+2025-05-27 08:06:42,241 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/zip
+2025-05-27 08:06:42,241 - INFO - Found file: video_6.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,241 - INFO - Moved file: video_6.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,242 - INFO - Found file: video_2.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,242 - INFO - Moved file: video_2.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,242 - INFO - Found file: video_3.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,243 - INFO - Moved file: video_3.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,243 - INFO - Found file: test_duplicate_2.txt, extension: .txt, category: Documents
+2025-05-27 08:06:42,244 - INFO - Moved file: test_duplicate_2.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,244 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 08:06:42,244 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 08:06:42,244 - INFO - Found file: image_19.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,244 - INFO - Moved file: image_19.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,244 - INFO - Found file: video_1.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,245 - INFO - Moved file: video_1.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,245 - INFO - Found file: video_20.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,245 - INFO - Moved file: video_20.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,245 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 08:06:42,245 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 08:06:42,245 - INFO - Found file: image_18.jpg, extension: .jpg, category: Images
+2025-05-27 08:06:42,245 - INFO - Moved file: image_18.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 08:06:42,245 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,246 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,246 - INFO - Found file: test_video.mp4, extension: .mp4, category: Videos
+2025-05-27 08:06:42,246 - INFO - Moved file: test_video.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 08:06:42,246 - INFO - Moved 94 files to their respective folders.
+2025-05-27 20:16:10,884 - INFO - Started file organization process.
+2025-05-27 20:16:10,884 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:16:10,884 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:16:10,885 - INFO - Found file: image_15.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,885 - INFO - Moved file: image_15.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,885 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 20:16:10,885 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,885 - INFO - Found file: video_10.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,885 - INFO - Moved file: video_10.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,885 - INFO - Found file: video_11.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,885 - INFO - Moved file: video_11.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,885 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,886 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,886 - INFO - Found file: image_14.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,886 - INFO - Moved file: image_14.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,886 - INFO - Found file: image_16.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,886 - INFO - Moved file: image_16.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,886 - INFO - Found file: backup.tar.gz, extension: .gz, uncategorized
+2025-05-27 20:16:10,887 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/gz
+2025-05-27 20:16:10,887 - INFO - Found file: video_13.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,887 - INFO - Moved file: video_13.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,887 - INFO - Found file: video_12.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,887 - INFO - Moved file: video_12.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,887 - INFO - Found file: unknown_file.xyz, extension: .xyz, uncategorized
+2025-05-27 20:16:10,888 - INFO - Moved file: unknown_file.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 20:16:10,888 - INFO - Found file: image_17.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,888 - INFO - Moved file: image_17.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,888 - INFO - Found file: nested.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,888 - INFO - Moved file: nested.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,888 - INFO - Found file: image_13.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,889 - INFO - Moved file: image_13.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,889 - INFO - Found file: video_16.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,889 - INFO - Moved file: video_16.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,889 - INFO - Found file: video_17.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,889 - INFO - Moved file: video_17.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,889 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 20:16:10,889 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,889 - INFO - Found file: image_12.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,890 - INFO - Moved file: image_12.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,890 - INFO - Found file: image_10.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,890 - INFO - Moved file: image_10.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,890 - INFO - Found file: video_8.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,890 - INFO - Moved file: video_8.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,890 - INFO - Found file: webpage.html, extension: .html, uncategorized
+2025-05-27 20:16:10,890 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/html
+2025-05-27 20:16:10,890 - INFO - Found file: styles.css, extension: .css, uncategorized
+2025-05-27 20:16:10,891 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/css
+2025-05-27 20:16:10,891 - INFO - Found file: video_15.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,891 - INFO - Moved file: video_15.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,891 - INFO - Found file: nested.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,891 - INFO - Moved file: nested.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,891 - INFO - Found file: video_14.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,892 - INFO - Moved file: video_14.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,892 - INFO - Found file: video_9.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,892 - INFO - Moved file: video_9.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,892 - INFO - Found file: image_11.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,892 - INFO - Moved file: image_11.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,892 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 20:16:10,892 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,893 - INFO - Found file: file_4.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,893 - INFO - Moved file: file_4.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,893 - INFO - Found file: file_18.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,893 - INFO - Moved file: file_18.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,893 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,893 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,893 - INFO - Found file: file_19.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,894 - INFO - Moved file: file_19.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,894 - INFO - Found file: file_5.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,894 - INFO - Moved file: file_5.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,894 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 20:16:10,894 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 20:16:10,895 - INFO - Found file: image_8.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,895 - INFO - Moved file: image_8.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,895 - INFO - Found file: file_7.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,895 - INFO - Moved file: file_7.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,895 - INFO - Found file: test_code.py, extension: .py, uncategorized
+2025-05-27 20:16:10,895 - INFO - Moved file: test_code.py to /Users/lokeshboddapu/Infotact-begin /demo_files/py
+2025-05-27 20:16:10,895 - INFO - Found file: file_6.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,896 - INFO - Moved file: file_6.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,896 - INFO - Found file: test.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,896 - INFO - Moved file: test.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,896 - INFO - Found file: image_9.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,896 - INFO - Moved file: image_9.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,896 - INFO - Found file: test.mp3, extension: .mp3, category: Music
+2025-05-27 20:16:10,896 - INFO - Moved file: test.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 20:16:10,896 - INFO - Found file: file_2.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,897 - INFO - Moved file: file_2.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,897 - INFO - Found file: file_3.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,897 - INFO - Moved file: file_3.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,897 - INFO - Found file: file_1.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,897 - INFO - Moved file: file_1.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,897 - INFO - Found file: file_20.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,897 - INFO - Moved file: file_20.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,897 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 20:16:10,897 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 20:16:10,897 - INFO - Found file: image_2.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,897 - INFO - Moved file: image_2.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,897 - INFO - Found file: file_11.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,898 - INFO - Moved file: file_11.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,898 - INFO - Found file: test.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,898 - INFO - Moved file: test.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,898 - INFO - Found file: file_10.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,898 - INFO - Moved file: file_10.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,898 - INFO - Found file: app.exe, extension: .exe, uncategorized
+2025-05-27 20:16:10,898 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/exe
+2025-05-27 20:16:10,898 - INFO - Found file: image_3.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,899 - INFO - Moved file: image_3.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,899 - INFO - Found file: installer.msi, extension: .msi, uncategorized
+2025-05-27 20:16:10,899 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/msi
+2025-05-27 20:16:10,899 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 20:16:10,899 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,899 - INFO - Found file: image_1.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,899 - INFO - Moved file: image_1.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,899 - INFO - Found file: test.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,900 - INFO - Moved file: test.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,900 - INFO - Found file: file_12.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,900 - INFO - Moved file: file_12.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,900 - INFO - Found file: test_archive.zip, extension: .zip, uncategorized
+2025-05-27 20:16:10,900 - INFO - Moved file: test_archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/zip
+2025-05-27 20:16:10,900 - INFO - Found file: file_13.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,900 - INFO - Moved file: file_13.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,900 - INFO - Found file: image_4.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,900 - INFO - Moved file: image_4.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,900 - INFO - Found file: file_17.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,900 - INFO - Moved file: file_17.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,900 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 20:16:10,901 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,901 - INFO - Found file: test_document.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,901 - INFO - Moved file: test_document.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,901 - INFO - Found file: file_16.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,901 - INFO - Moved file: file_16.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,901 - INFO - Found file: image_5.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,901 - INFO - Moved file: image_5.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,901 - INFO - Found file: image_7.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,901 - INFO - Moved file: image_7.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,901 - INFO - Found file: file_8.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,902 - INFO - Moved file: file_8.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,902 - INFO - Found file: file_14.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,902 - INFO - Moved file: file_14.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,902 - INFO - Found file: file_15.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,902 - INFO - Moved file: file_15.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,902 - INFO - Found file: file_9.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,903 - INFO - Moved file: file_9.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,903 - INFO - Found file: image_6.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,903 - INFO - Moved file: image_6.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,903 - INFO - Found file: image_20.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,904 - INFO - Moved file: image_20.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,904 - INFO - No extension for file: no_extension
+2025-05-27 20:16:10,904 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 20:16:10,904 - INFO - Found file: video_4.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,904 - INFO - Moved file: video_4.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,904 - INFO - Found file: video_19.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,905 - INFO - Moved file: video_19.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,905 - INFO - Found file: video_18.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,905 - INFO - Moved file: video_18.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,905 - INFO - No extension for file: file_without_extension
+2025-05-27 20:16:10,905 - INFO - Moved file: file_without_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 20:16:10,906 - INFO - Found file: video_5.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,906 - INFO - Moved file: video_5.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,906 - INFO - Found file: video_7.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,906 - INFO - Moved file: video_7.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,907 - INFO - Found file: script.py, extension: .py, uncategorized
+2025-05-27 20:16:10,907 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/py
+2025-05-27 20:16:10,907 - INFO - Found file: test_duplicate.txt, extension: .txt, category: Documents
+2025-05-27 20:16:10,908 - INFO - Moved file: test_duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,908 - INFO - Found file: archive.zip, extension: .zip, uncategorized
+2025-05-27 20:16:10,908 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/zip
+2025-05-27 20:16:10,908 - INFO - Found file: video_6.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,909 - INFO - Moved file: video_6.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,909 - INFO - Found file: video_2.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,909 - INFO - Moved file: video_2.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,909 - INFO - Found file: video_3.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,910 - INFO - Moved file: video_3.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,910 - INFO - Found file: test_duplicate_2.txt, extension: .txt, category: Documents
+2025-05-27 20:16:10,910 - INFO - Moved file: test_duplicate_2.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,910 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 20:16:10,911 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:16:10,911 - INFO - Found file: image_19.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,911 - INFO - Moved file: image_19.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,911 - INFO - Found file: video_1.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,911 - INFO - Moved file: video_1.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,911 - INFO - Found file: video_20.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,911 - INFO - Moved file: video_20.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,911 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 20:16:10,912 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 20:16:10,912 - INFO - Found file: image_18.jpg, extension: .jpg, category: Images
+2025-05-27 20:16:10,912 - INFO - Moved file: image_18.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:16:10,912 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,912 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,912 - INFO - Found file: test_video.mp4, extension: .mp4, category: Videos
+2025-05-27 20:16:10,912 - INFO - Moved file: test_video.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:16:10,912 - INFO - Moved 94 files to their respective folders.
+2025-05-27 20:20:49,070 - INFO - Started file organization process.
+2025-05-27 20:20:49,070 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:20:49,071 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:20:49,071 - INFO - Found file: image_15.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,071 - INFO - Moved file: image_15.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,071 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 20:20:49,071 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,071 - INFO - Found file: video_10.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,071 - INFO - Moved file: video_10.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,071 - INFO - Found file: video_11.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,071 - INFO - Moved file: video_11.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,071 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,071 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,071 - INFO - Found file: image_14.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,072 - INFO - Moved file: image_14.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,072 - INFO - Found file: image_16.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,072 - INFO - Moved file: image_16.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,072 - INFO - Found file: backup.tar.gz, extension: .gz, category: Archives
+2025-05-27 20:20:49,072 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/archives
+2025-05-27 20:20:49,072 - INFO - Found file: video_13.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,072 - INFO - Moved file: video_13.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,072 - INFO - Found file: video_12.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,072 - INFO - Moved file: video_12.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,072 - INFO - Found file: unknown_file.xyz, extension: .xyz, uncategorized
+2025-05-27 20:20:49,072 - INFO - Moved file: unknown_file.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 20:20:49,072 - INFO - Found file: image_17.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,072 - INFO - Moved file: image_17.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,072 - INFO - Found file: nested.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,073 - INFO - Moved file: nested.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,073 - INFO - Found file: image_13.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,073 - INFO - Moved file: image_13.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,073 - INFO - Found file: video_16.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,073 - INFO - Moved file: video_16.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,073 - INFO - Found file: video_17.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,073 - INFO - Moved file: video_17.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,073 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 20:20:49,073 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,073 - INFO - Found file: image_12.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,073 - INFO - Moved file: image_12.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,073 - INFO - Found file: image_10.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,073 - INFO - Moved file: image_10.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,073 - INFO - Found file: video_8.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,073 - INFO - Moved file: video_8.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,074 - INFO - Found file: webpage.html, extension: .html, category: Code
+2025-05-27 20:20:49,074 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/code
+2025-05-27 20:20:49,074 - INFO - Found file: styles.css, extension: .css, category: Code
+2025-05-27 20:20:49,074 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/code
+2025-05-27 20:20:49,074 - INFO - Found file: video_15.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,074 - INFO - Moved file: video_15.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,074 - INFO - Found file: nested.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,074 - INFO - Moved file: nested.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,074 - INFO - Found file: video_14.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,074 - INFO - Moved file: video_14.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,074 - INFO - Found file: video_9.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,074 - INFO - Moved file: video_9.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,074 - INFO - Found file: image_11.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,074 - INFO - Moved file: image_11.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,074 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 20:20:49,075 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,075 - INFO - Found file: file_4.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,075 - INFO - Moved file: file_4.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,075 - INFO - Found file: file_18.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,075 - INFO - Moved file: file_18.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,075 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,075 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,075 - INFO - Found file: file_19.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,075 - INFO - Moved file: file_19.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,075 - INFO - Found file: file_5.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,075 - INFO - Moved file: file_5.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,075 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 20:20:49,076 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/music
+2025-05-27 20:20:49,076 - INFO - Found file: image_8.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,076 - INFO - Moved file: image_8.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,076 - INFO - Found file: file_7.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,076 - INFO - Moved file: file_7.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,076 - INFO - Found file: test_code.py, extension: .py, category: Code
+2025-05-27 20:20:49,077 - INFO - Moved file: test_code.py to /Users/lokeshboddapu/Infotact-begin /demo_files/code
+2025-05-27 20:20:49,077 - INFO - Found file: file_6.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,077 - INFO - Moved file: file_6.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,077 - INFO - Found file: test.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,077 - INFO - Moved file: test.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,077 - INFO - Found file: image_9.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,077 - INFO - Moved file: image_9.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,077 - INFO - Found file: test.mp3, extension: .mp3, category: Music
+2025-05-27 20:20:49,077 - INFO - Moved file: test.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/music
+2025-05-27 20:20:49,077 - INFO - Found file: file_2.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,078 - INFO - Moved file: file_2.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,078 - INFO - Found file: file_3.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,078 - INFO - Moved file: file_3.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,078 - INFO - Found file: file_1.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,078 - INFO - Moved file: file_1.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,078 - INFO - Found file: file_20.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,078 - INFO - Moved file: file_20.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,078 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 20:20:49,078 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 20:20:49,078 - INFO - Found file: image_2.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,078 - INFO - Moved file: image_2.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,078 - INFO - Found file: file_11.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,078 - INFO - Moved file: file_11.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,079 - INFO - Found file: test.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,079 - INFO - Moved file: test.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,079 - INFO - Found file: file_10.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,079 - INFO - Moved file: file_10.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,079 - INFO - Found file: app.exe, extension: .exe, category: Executables
+2025-05-27 20:20:49,079 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/executables
+2025-05-27 20:20:49,079 - INFO - Found file: image_3.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,079 - INFO - Moved file: image_3.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,079 - INFO - Found file: installer.msi, extension: .msi, category: Executables
+2025-05-27 20:20:49,079 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/executables
+2025-05-27 20:20:49,079 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 20:20:49,079 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,080 - INFO - Found file: image_1.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,080 - INFO - Moved file: image_1.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,080 - INFO - Found file: test.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,080 - INFO - Moved file: test.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,080 - INFO - Found file: file_12.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,080 - INFO - Moved file: file_12.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,080 - INFO - Found file: test_archive.zip, extension: .zip, category: Archives
+2025-05-27 20:20:49,080 - INFO - Moved file: test_archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/archives
+2025-05-27 20:20:49,080 - INFO - Found file: file_13.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,081 - INFO - Moved file: file_13.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,081 - INFO - Found file: image_4.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,081 - INFO - Moved file: image_4.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,081 - INFO - Found file: file_17.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,081 - INFO - Moved file: file_17.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,081 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 20:20:49,081 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,081 - INFO - Found file: test_document.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,081 - INFO - Moved file: test_document.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,081 - INFO - Found file: file_16.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,081 - INFO - Moved file: file_16.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,081 - INFO - Found file: image_5.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,082 - INFO - Moved file: image_5.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,082 - INFO - Found file: image_7.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,082 - INFO - Moved file: image_7.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,082 - INFO - Found file: file_8.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,082 - INFO - Moved file: file_8.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,082 - INFO - Found file: file_14.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,082 - INFO - Moved file: file_14.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,082 - INFO - Found file: file_15.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,082 - INFO - Moved file: file_15.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,082 - INFO - Found file: file_9.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,083 - INFO - Moved file: file_9.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,083 - INFO - Found file: image_6.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,083 - INFO - Moved file: image_6.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,083 - INFO - Found file: image_20.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,083 - INFO - Moved file: image_20.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,083 - INFO - No extension for file: no_extension
+2025-05-27 20:20:49,084 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/mISC
+2025-05-27 20:20:49,084 - INFO - Found file: video_4.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,084 - INFO - Moved file: video_4.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,084 - INFO - Found file: video_19.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,084 - INFO - Moved file: video_19.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,084 - INFO - Found file: video_18.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,084 - INFO - Moved file: video_18.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,084 - INFO - No extension for file: file_without_extension
+2025-05-27 20:20:49,084 - INFO - Moved file: file_without_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/mISC
+2025-05-27 20:20:49,084 - INFO - Found file: video_5.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,084 - INFO - Moved file: video_5.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,085 - INFO - Found file: video_7.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,085 - INFO - Moved file: video_7.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,085 - INFO - Found file: script.py, extension: .py, category: Code
+2025-05-27 20:20:49,085 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/code
+2025-05-27 20:20:49,085 - INFO - Found file: test_duplicate.txt, extension: .txt, category: Documents
+2025-05-27 20:20:49,085 - INFO - Moved file: test_duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,085 - INFO - Found file: archive.zip, extension: .zip, category: Archives
+2025-05-27 20:20:49,085 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/archives
+2025-05-27 20:20:49,085 - INFO - Found file: video_6.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,085 - INFO - Moved file: video_6.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,085 - INFO - Found file: video_2.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,085 - INFO - Moved file: video_2.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,085 - INFO - Found file: video_3.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,085 - INFO - Moved file: video_3.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,085 - INFO - Found file: test_duplicate_2.txt, extension: .txt, category: Documents
+2025-05-27 20:20:49,086 - INFO - Moved file: test_duplicate_2.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,086 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 20:20:49,086 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/documents
+2025-05-27 20:20:49,086 - INFO - Found file: image_19.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,086 - INFO - Moved file: image_19.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,086 - INFO - Found file: video_1.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,086 - INFO - Moved file: video_1.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,086 - INFO - Found file: video_20.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,086 - INFO - Moved file: video_20.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,086 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 20:20:49,086 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/music
+2025-05-27 20:20:49,086 - INFO - Found file: image_18.jpg, extension: .jpg, category: Images
+2025-05-27 20:20:49,086 - INFO - Moved file: image_18.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/images
+2025-05-27 20:20:49,086 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,087 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,087 - INFO - Found file: test_video.mp4, extension: .mp4, category: Videos
+2025-05-27 20:20:49,087 - INFO - Moved file: test_video.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/videos
+2025-05-27 20:20:49,087 - INFO - Moved 94 files to their respective folders.
+2025-05-27 20:22:06,959 - INFO - Started file organization process.
+2025-05-27 20:22:06,960 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:22:06,960 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:22:06,960 - INFO - Found file: unknown_file.xyz, extension: .xyz, uncategorized
+2025-05-27 20:22:06,961 - INFO - Moved file: unknown_file.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 20:22:06,961 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 20:22:06,961 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/xyz
+2025-05-27 20:22:06,961 - INFO - No extension for file: no_extension
+2025-05-27 20:22:06,961 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/misc
+2025-05-27 20:22:06,962 - INFO - No extension for file: file_without_extension
+2025-05-27 20:22:06,962 - INFO - Moved file: file_without_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/misc
+2025-05-27 20:22:06,962 - INFO - Moved 4 files to their respective folders.
+2025-05-27 20:28:34,959 - INFO - Started file organization process.
+2025-05-27 20:28:34,959 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:28:34,959 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:28:34,959 - INFO - Found file: image_15.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,959 - INFO - Moved file: image_15.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,959 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 20:28:34,959 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,959 - INFO - Found file: video_10.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,960 - INFO - Moved file: video_10.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,960 - INFO - Found file: video_11.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,960 - INFO - Moved file: video_11.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,960 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,960 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,960 - INFO - Found file: image_14.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,960 - INFO - Moved file: image_14.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,960 - INFO - Found file: image_16.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,960 - INFO - Moved file: image_16.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,960 - INFO - Found file: backup.tar.gz, extension: .gz, category: Archives
+2025-05-27 20:28:34,960 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/Archives
+2025-05-27 20:28:34,960 - INFO - Found file: video_13.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,961 - INFO - Moved file: video_13.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,961 - INFO - Found file: video_12.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,961 - INFO - Moved file: video_12.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,961 - INFO - Found file: unknown_file.xyz, extension: .xyz, uncategorized
+2025-05-27 20:28:34,961 - INFO - Moved file: unknown_file.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/Xyz
+2025-05-27 20:28:34,961 - INFO - Found file: image_17.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,961 - INFO - Moved file: image_17.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,961 - INFO - Found file: nested.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,961 - INFO - Moved file: nested.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,961 - INFO - Found file: image_13.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,961 - INFO - Moved file: image_13.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,961 - INFO - Found file: video_16.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,961 - INFO - Moved file: video_16.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,962 - INFO - Found file: video_17.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,962 - INFO - Moved file: video_17.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,962 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 20:28:34,962 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,962 - INFO - Found file: image_12.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,962 - INFO - Moved file: image_12.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,962 - INFO - Found file: image_10.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,962 - INFO - Moved file: image_10.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,962 - INFO - Found file: video_8.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,962 - INFO - Moved file: video_8.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,962 - INFO - Found file: webpage.html, extension: .html, category: Code
+2025-05-27 20:28:34,962 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 20:28:34,962 - INFO - Found file: styles.css, extension: .css, category: Code
+2025-05-27 20:28:34,963 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 20:28:34,963 - INFO - Found file: video_15.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,963 - INFO - Moved file: video_15.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,963 - INFO - Found file: nested.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,963 - INFO - Moved file: nested.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,963 - INFO - Found file: video_14.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,963 - INFO - Moved file: video_14.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,963 - INFO - Found file: video_9.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,963 - INFO - Moved file: video_9.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,963 - INFO - Found file: image_11.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,963 - INFO - Moved file: image_11.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,963 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 20:28:34,963 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,963 - INFO - Found file: file_4.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,963 - INFO - Moved file: file_4.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,963 - INFO - Found file: file_18.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,964 - INFO - Moved file: file_18.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,964 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,964 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,964 - INFO - Found file: file_19.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,964 - INFO - Moved file: file_19.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,964 - INFO - Found file: file_5.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,964 - INFO - Moved file: file_5.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,964 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 20:28:34,965 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 20:28:34,965 - INFO - Found file: image_8.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,965 - INFO - Moved file: image_8.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,965 - INFO - Found file: file_7.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,965 - INFO - Moved file: file_7.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,965 - INFO - Found file: test_code.py, extension: .py, category: Code
+2025-05-27 20:28:34,965 - INFO - Moved file: test_code.py to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 20:28:34,965 - INFO - Found file: file_6.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,965 - INFO - Moved file: file_6.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,965 - INFO - Found file: test.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,966 - INFO - Moved file: test.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,966 - INFO - Found file: image_9.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,966 - INFO - Moved file: image_9.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,966 - INFO - Found file: test.mp3, extension: .mp3, category: Music
+2025-05-27 20:28:34,966 - INFO - Moved file: test.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 20:28:34,966 - INFO - Found file: file_2.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,966 - INFO - Moved file: file_2.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,966 - INFO - Found file: file_3.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,966 - INFO - Moved file: file_3.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,966 - INFO - Found file: file_1.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,966 - INFO - Moved file: file_1.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,966 - INFO - Found file: file_20.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,966 - INFO - Moved file: file_20.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,966 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 20:28:34,967 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/Xyz
+2025-05-27 20:28:34,967 - INFO - Found file: image_2.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,967 - INFO - Moved file: image_2.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,967 - INFO - Found file: file_11.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,967 - INFO - Moved file: file_11.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,967 - INFO - Found file: test.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,967 - INFO - Moved file: test.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,967 - INFO - Found file: file_10.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,967 - INFO - Moved file: file_10.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,967 - INFO - Found file: app.exe, extension: .exe, category: Executables
+2025-05-27 20:28:34,967 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/Executables
+2025-05-27 20:28:34,967 - INFO - Found file: image_3.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,968 - INFO - Moved file: image_3.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,968 - INFO - Found file: installer.msi, extension: .msi, category: Executables
+2025-05-27 20:28:34,968 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/Executables
+2025-05-27 20:28:34,968 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 20:28:34,968 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,968 - INFO - Found file: image_1.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,968 - INFO - Moved file: image_1.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,968 - INFO - Found file: test.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,968 - INFO - Moved file: test.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,968 - INFO - Found file: file_12.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,968 - INFO - Moved file: file_12.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,968 - INFO - Found file: test_archive.zip, extension: .zip, category: Archives
+2025-05-27 20:28:34,969 - INFO - Moved file: test_archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/Archives
+2025-05-27 20:28:34,969 - INFO - Found file: file_13.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,969 - INFO - Moved file: file_13.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,969 - INFO - Found file: image_4.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,969 - INFO - Moved file: image_4.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,969 - INFO - Found file: file_17.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,969 - INFO - Moved file: file_17.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,969 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 20:28:34,970 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,970 - INFO - Found file: test_document.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,970 - INFO - Moved file: test_document.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,970 - INFO - Found file: file_16.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,970 - INFO - Moved file: file_16.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,970 - INFO - Found file: image_5.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,970 - INFO - Moved file: image_5.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,971 - INFO - Found file: image_7.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,971 - INFO - Moved file: image_7.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,971 - INFO - Found file: file_8.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,971 - INFO - Moved file: file_8.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,971 - INFO - Found file: file_14.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,971 - INFO - Moved file: file_14.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,971 - INFO - Found file: file_15.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,972 - INFO - Moved file: file_15.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,972 - INFO - Found file: file_9.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,972 - INFO - Moved file: file_9.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,972 - INFO - Found file: image_6.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,972 - INFO - Moved file: image_6.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,972 - INFO - Found file: image_20.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,972 - INFO - Moved file: image_20.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,972 - INFO - No extension for file: no_extension
+2025-05-27 20:28:34,972 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 20:28:34,972 - INFO - Found file: video_4.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,972 - INFO - Moved file: video_4.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,973 - INFO - Found file: video_19.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,973 - INFO - Moved file: video_19.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,973 - INFO - Found file: video_18.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,974 - INFO - Moved file: video_18.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,974 - INFO - No extension for file: file_without_extension
+2025-05-27 20:28:34,974 - INFO - Moved file: file_without_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 20:28:34,974 - INFO - Found file: video_5.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,974 - INFO - Moved file: video_5.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,975 - INFO - Found file: video_7.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,975 - INFO - Moved file: video_7.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,975 - INFO - Found file: script.py, extension: .py, category: Code
+2025-05-27 20:28:34,975 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 20:28:34,975 - INFO - Found file: test_duplicate.txt, extension: .txt, category: Documents
+2025-05-27 20:28:34,975 - INFO - Moved file: test_duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,975 - INFO - Found file: archive.zip, extension: .zip, category: Archives
+2025-05-27 20:28:34,975 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/Archives
+2025-05-27 20:28:34,975 - INFO - Found file: video_6.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,975 - INFO - Moved file: video_6.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,975 - INFO - Found file: video_2.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,976 - INFO - Moved file: video_2.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,976 - INFO - Found file: video_3.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,976 - INFO - Moved file: video_3.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,976 - INFO - Found file: test_duplicate_2.txt, extension: .txt, category: Documents
+2025-05-27 20:28:34,976 - INFO - Moved file: test_duplicate_2.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,976 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 20:28:34,977 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:28:34,977 - INFO - Found file: image_19.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,978 - INFO - Moved file: image_19.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,978 - INFO - Found file: video_1.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,978 - INFO - Moved file: video_1.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,978 - INFO - Found file: video_20.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,978 - INFO - Moved file: video_20.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,978 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 20:28:34,978 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 20:28:34,979 - INFO - Found file: image_18.jpg, extension: .jpg, category: Images
+2025-05-27 20:28:34,979 - INFO - Moved file: image_18.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 20:28:34,979 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,979 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,979 - INFO - Found file: test_video.mp4, extension: .mp4, category: Videos
+2025-05-27 20:28:34,979 - INFO - Moved file: test_video.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 20:28:34,979 - INFO - Moved 94 files to their respective folders.
+2025-05-27 20:32:51,241 - INFO - Started file organization process.
+2025-05-27 20:32:51,242 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:32:51,242 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 20:32:51,242 - INFO - Found file: test_normal_file.txt, extension: .txt, category: Documents
+2025-05-27 20:32:51,242 - INFO - Moved file: test_normal_file.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 20:32:51,242 - INFO - Moved 1 files to their respective folders.
+2025-05-27 20:46:46,106 - INFO - Moved AICTE-EDUSKILLS.pdf to Documents/AICTE-EDUSKILLS.pdf
+2025-05-27 20:46:46,108 - INFO - Moved B-Tech.pdf to Documents/B-Tech.pdf
+2025-05-27 20:46:46,109 - INFO - Moved Tata-Imagination-Challange.pdf to Documents/Tata-Imagination-Challange.pdf
+2025-05-27 20:46:46,110 - INFO - Moved LokeshBoddapu-Resume.pdf to Documents/LokeshBoddapu-Resume.pdf
+2025-05-27 20:46:46,111 - INFO - Moved 10th-Board.pdf to Documents/10th-Board.pdf
+2025-05-27 20:46:46,111 - INFO - Moved Intermediate-Edu.pdf to Documents/Intermediate-Edu.pdf
+2025-05-27 20:46:46,112 - INFO - Moved Daniel Gallego.jpg to Images/Daniel Gallego.jpg
+2025-05-27 20:46:46,113 - INFO - Moved 1A0A0234.JPG to Images/1A0A0234.JPG
+2025-05-27 20:46:46,113 - INFO - Moved WhatsApp Image 2023-11-22 at 23.36.27.jpeg to Images/WhatsApp Image 2023-11-22 at 23.36.27.jpeg
+2025-05-27 20:46:46,114 - INFO - Moved IMG-20240828-WA0041~3.jpg to Images/IMG-20240828-WA0041~3.jpg
+2025-05-27 20:47:20,712 - INFO - Started file organization process.
+2025-05-27 20:47:29,554 - ERROR - Directory does not exist: exit
+2025-05-27 21:25:36,232 - INFO - Started file organization process.
+2025-05-27 21:27:32,090 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 21:27:32,092 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 21:27:32,092 - INFO - No files were moved.
+2025-05-27 21:29:04,944 - INFO - Started file organization process.
+2025-05-27 21:30:34,903 - INFO - Source directory: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 21:30:34,905 - INFO - Organizing files in: /Users/lokeshboddapu/Infotact-begin /demo_files
+2025-05-27 21:30:34,905 - INFO - Found file: image_15.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,906 - INFO - Moved file: image_15.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,906 - INFO - Found file: duplicate.txt, extension: .txt, category: Documents
+2025-05-27 21:30:34,907 - INFO - Moved file: duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,907 - INFO - Found file: video_10.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,908 - INFO - Moved file: video_10.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,908 - INFO - Found file: video_11.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,908 - INFO - Moved file: video_11.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,908 - INFO - Found file: nested_doc.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,908 - INFO - Moved file: nested_doc.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,908 - INFO - Found file: image_14.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,909 - INFO - Moved file: image_14.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,909 - INFO - Found file: image_16.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,909 - INFO - Moved file: image_16.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,909 - INFO - Found file: backup.tar.gz, extension: .gz, category: Archives
+2025-05-27 21:30:34,909 - INFO - Moved file: backup.tar.gz to /Users/lokeshboddapu/Infotact-begin /demo_files/Archives
+2025-05-27 21:30:34,910 - INFO - Found file: video_13.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,910 - INFO - Moved file: video_13.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,910 - INFO - Found file: video_12.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,910 - INFO - Moved file: video_12.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,910 - INFO - Found file: unknown_file.xyz, extension: .xyz, uncategorized
+2025-05-27 21:30:34,911 - INFO - Moved file: unknown_file.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/Xyz
+2025-05-27 21:30:34,911 - INFO - Found file: image_17.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,912 - INFO - Moved file: image_17.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,912 - INFO - Found file: nested.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,912 - INFO - Moved file: nested.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,912 - INFO - Found file: image_13.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,913 - INFO - Moved file: image_13.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,913 - INFO - Found file: video_16.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,913 - INFO - Moved file: video_16.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,913 - INFO - Found file: video_17.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,913 - INFO - Moved file: video_17.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,914 - INFO - Found file: spreadsheet.xlsx, extension: .xlsx, category: Documents
+2025-05-27 21:30:34,914 - INFO - Moved file: spreadsheet.xlsx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,914 - INFO - Found file: image_12.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,914 - INFO - Moved file: image_12.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,914 - INFO - Found file: image_10.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,915 - INFO - Moved file: image_10.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,915 - INFO - Found file: video_8.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,915 - INFO - Moved file: video_8.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,915 - INFO - Found file: webpage.html, extension: .html, category: Code
+2025-05-27 21:30:34,915 - INFO - Moved file: webpage.html to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 21:30:34,916 - INFO - Found file: styles.css, extension: .css, category: Code
+2025-05-27 21:30:34,916 - INFO - Moved file: styles.css to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 21:30:34,916 - INFO - Found file: video_15.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,916 - INFO - Moved file: video_15.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,916 - INFO - Found file: nested.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,917 - INFO - Moved file: nested.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,917 - INFO - Found file: video_14.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,918 - INFO - Moved file: video_14.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,918 - INFO - Found file: video_9.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,918 - INFO - Moved file: video_9.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,918 - INFO - Found file: image_11.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,918 - INFO - Moved file: image_11.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,919 - INFO - Found file: clip.avi, extension: .avi, category: Videos
+2025-05-27 21:30:34,919 - INFO - Moved file: clip.avi to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,919 - INFO - Found file: file_4.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,920 - INFO - Moved file: file_4.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,920 - INFO - Found file: file_18.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,920 - INFO - Moved file: file_18.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,920 - INFO - Found file: nested_image.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,920 - INFO - Moved file: nested_image.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,920 - INFO - Found file: file_19.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,921 - INFO - Moved file: file_19.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,921 - INFO - Found file: file_5.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,921 - INFO - Moved file: file_5.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,921 - INFO - Found file: podcast.wav, extension: .wav, category: Music
+2025-05-27 21:30:34,922 - INFO - Moved file: podcast.wav to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 21:30:34,922 - INFO - Found file: image_8.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,922 - INFO - Moved file: image_8.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,922 - INFO - Found file: file_7.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,922 - INFO - Moved file: file_7.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,922 - INFO - Found file: test_code.py, extension: .py, category: Code
+2025-05-27 21:30:34,923 - INFO - Moved file: test_code.py to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 21:30:34,923 - INFO - Found file: file_6.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,923 - INFO - Moved file: file_6.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,923 - INFO - Found file: test.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,923 - INFO - Moved file: test.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,923 - INFO - Found file: image_9.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,924 - INFO - Moved file: image_9.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,924 - INFO - Found file: test.mp3, extension: .mp3, category: Music
+2025-05-27 21:30:34,924 - INFO - Moved file: test.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 21:30:34,924 - INFO - Found file: file_2.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,924 - INFO - Moved file: file_2.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,924 - INFO - Found file: file_3.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,924 - INFO - Moved file: file_3.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,924 - INFO - Found file: file_1.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,925 - INFO - Moved file: file_1.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,925 - INFO - Found file: file_20.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,925 - INFO - Moved file: file_20.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,925 - INFO - Found file: unknown.xyz, extension: .xyz, uncategorized
+2025-05-27 21:30:34,925 - INFO - Moved file: unknown.xyz to /Users/lokeshboddapu/Infotact-begin /demo_files/Xyz
+2025-05-27 21:30:34,925 - INFO - Found file: image_2.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,926 - INFO - Moved file: image_2.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,926 - INFO - Found file: file_11.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,926 - INFO - Moved file: file_11.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,926 - INFO - Found file: test.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,926 - INFO - Moved file: test.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,927 - INFO - Found file: file_10.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,927 - INFO - Moved file: file_10.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,928 - INFO - Found file: app.exe, extension: .exe, category: Executables
+2025-05-27 21:30:34,928 - INFO - Moved file: app.exe to /Users/lokeshboddapu/Infotact-begin /demo_files/Executables
+2025-05-27 21:30:34,928 - INFO - Found file: image_3.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,929 - INFO - Moved file: image_3.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,929 - INFO - Found file: installer.msi, extension: .msi, category: Executables
+2025-05-27 21:30:34,929 - INFO - Moved file: installer.msi to /Users/lokeshboddapu/Infotact-begin /demo_files/Executables
+2025-05-27 21:30:34,929 - INFO - Found file: duplicate_copy.txt, extension: .txt, category: Documents
+2025-05-27 21:30:34,929 - INFO - Moved file: duplicate_copy.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,929 - INFO - Found file: image_1.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,930 - INFO - Moved file: image_1.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,930 - INFO - Found file: test.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,930 - INFO - Moved file: test.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,930 - INFO - Found file: file_12.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,930 - INFO - Moved file: file_12.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,931 - INFO - Found file: test_archive.zip, extension: .zip, category: Archives
+2025-05-27 21:30:34,931 - INFO - Moved file: test_archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/Archives
+2025-05-27 21:30:34,931 - INFO - Found file: file_13.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,931 - INFO - Moved file: file_13.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,931 - INFO - Found file: image_4.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,931 - INFO - Moved file: image_4.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,931 - INFO - Found file: file_17.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,932 - INFO - Moved file: file_17.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,932 - INFO - Found file: presentation.pptx, extension: .pptx, category: Documents
+2025-05-27 21:30:34,932 - INFO - Moved file: presentation.pptx to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,932 - INFO - Found file: test_document.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,932 - INFO - Moved file: test_document.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,932 - INFO - Found file: file_16.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,932 - INFO - Moved file: file_16.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,932 - INFO - Found file: image_5.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,933 - INFO - Moved file: image_5.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,933 - INFO - Found file: image_7.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,933 - INFO - Moved file: image_7.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,933 - INFO - Found file: file_8.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,933 - INFO - Moved file: file_8.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,933 - INFO - Found file: file_14.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,933 - INFO - Moved file: file_14.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,933 - INFO - Found file: file_15.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,933 - INFO - Moved file: file_15.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,934 - INFO - Found file: file_9.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,934 - INFO - Moved file: file_9.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,935 - INFO - Found file: image_6.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,935 - INFO - Moved file: image_6.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,935 - INFO - Found file: image_20.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,935 - INFO - Moved file: image_20.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,935 - INFO - No extension for file: no_extension
+2025-05-27 21:30:34,936 - INFO - Moved file: no_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 21:30:34,936 - INFO - Found file: video_4.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,936 - INFO - Moved file: video_4.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,936 - INFO - Found file: video_19.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,936 - INFO - Moved file: video_19.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,937 - INFO - Found file: video_18.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,937 - INFO - Moved file: video_18.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,937 - INFO - No extension for file: file_without_extension
+2025-05-27 21:30:34,937 - INFO - Moved file: file_without_extension to /Users/lokeshboddapu/Infotact-begin /demo_files/MISC
+2025-05-27 21:30:34,937 - INFO - Found file: video_5.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,937 - INFO - Moved file: video_5.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,937 - INFO - Found file: video_7.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,937 - INFO - Moved file: video_7.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,938 - INFO - Found file: script.py, extension: .py, category: Code
+2025-05-27 21:30:34,938 - INFO - Moved file: script.py to /Users/lokeshboddapu/Infotact-begin /demo_files/Code
+2025-05-27 21:30:34,938 - INFO - Found file: test_duplicate.txt, extension: .txt, category: Documents
+2025-05-27 21:30:34,938 - INFO - Moved file: test_duplicate.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,938 - INFO - Found file: archive.zip, extension: .zip, category: Archives
+2025-05-27 21:30:34,938 - INFO - Moved file: archive.zip to /Users/lokeshboddapu/Infotact-begin /demo_files/Archives
+2025-05-27 21:30:34,938 - INFO - Found file: video_6.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,938 - INFO - Moved file: video_6.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,938 - INFO - Found file: video_2.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,939 - INFO - Moved file: video_2.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,939 - INFO - Found file: video_3.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,939 - INFO - Moved file: video_3.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,939 - INFO - Found file: test_duplicate_2.txt, extension: .txt, category: Documents
+2025-05-27 21:30:34,939 - INFO - Moved file: test_duplicate_2.txt to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,939 - INFO - Found file: report.pdf, extension: .pdf, category: Documents
+2025-05-27 21:30:34,939 - INFO - Moved file: report.pdf to /Users/lokeshboddapu/Infotact-begin /demo_files/Documents
+2025-05-27 21:30:34,939 - INFO - Found file: image_19.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,940 - INFO - Moved file: image_19.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,940 - INFO - Found file: video_1.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,940 - INFO - Moved file: video_1.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,940 - INFO - Found file: video_20.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,940 - INFO - Moved file: video_20.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,940 - INFO - Found file: song.mp3, extension: .mp3, category: Music
+2025-05-27 21:30:34,941 - INFO - Moved file: song.mp3 to /Users/lokeshboddapu/Infotact-begin /demo_files/Music
+2025-05-27 21:30:34,941 - INFO - Found file: image_18.jpg, extension: .jpg, category: Images
+2025-05-27 21:30:34,941 - INFO - Moved file: image_18.jpg to /Users/lokeshboddapu/Infotact-begin /demo_files/Images
+2025-05-27 21:30:34,941 - INFO - Found file: movie.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,942 - INFO - Moved file: movie.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,943 - INFO - Found file: test_video.mp4, extension: .mp4, category: Videos
+2025-05-27 21:30:34,943 - INFO - Moved file: test_video.mp4 to /Users/lokeshboddapu/Infotact-begin /demo_files/Videos
+2025-05-27 21:30:34,943 - INFO - Moved 94 files to their respective folders.
